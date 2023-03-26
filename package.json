@@ -1,0 +1,17 @@
+{
+  "name": "onework-codility",
+  "version": "1.0.0",
+  "description": "",
+  "main": "answer.js",
+  "scripts": {
+    "test": "jest test.js",
+    "dev":"node answer.js"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
